@@ -1,5 +1,5 @@
  ,sGA-1X,sGA-1X,sGA-UX,sGA-UX
-Problem_size,MRPS,Evaluations,MRPS,Evaluations
+Problem_size,MRPS,#Evaluations,MRPS,#Evaluations
 10,122.4 (37.7),504.3 (191.2),393.6 (109.0),1331.2 (614.4)
 20,331.2 (87.1),3123.2 (983.5),3891.2 (558.5),56934.4 (17031.7)
 40,902.4 (129.4),16486.4 (4834.5),-1.0 (0.0),-1.0 (0.0)
